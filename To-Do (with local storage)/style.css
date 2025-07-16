@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  align-items: center;
+  color: white;
+  background-color: black;
+  /* display: flex;
+  flex-direction: column; */
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  /* margin: 0; */
+}
+
+.delete {
+  margin: 10px;
+}
